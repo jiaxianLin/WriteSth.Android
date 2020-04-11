@@ -14,4 +14,5 @@ Body   body....内容
 
 ## 响应报文
 
-响应行
+状态行   HTTP verison   status code   status message  example ： HTTP/1.1   200   OK
+
